@@ -1,35 +1,7 @@
-# Hi, I'm Ved 👋
+## 📊 GitHub Stats
 
-Python Developer | AI Builder | Automation Expert
+![Ved GitHub stats](https://github-readme-stats.vercel.app/api?username=hedaooved92-lab&show_icons=true&theme=tokyonight)
 
-## 🚀 Projects
+## 🔥 Most Used Languages
 
-### 🤖 AI Code Generator
-- Generate Python Code
-- Desktop App
-- Automation Tool
-
-### 🎥 Face AI Detection
-- Emotion Detection
-- Age Detection
-- Smart Camera
-
-### 🕷 Spider Clock
-- Analog Clock
-- Python GUI
-
-### 🎨 Air Draw
-- Draw using Hand
-- Computer Vision
-
-## 🛠 Skills
-
-- Python
-- AI Development
-- Automation
-- Computer Vision
-- Tkinter
-
-## 📫 Contact
-
-Open for Freelance Work
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedaooved92-lab&layout=compact&theme=tokyonight)
