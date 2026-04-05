@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ved 👋
 
-<!--
-**hedaooved92-lab/hedaooved92-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer | AI Builder | Automation Expert
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AI Code Generator
+- Generate Python Code
+- Desktop App
+- Automation Tool
+
+### 🎥 Face AI Detection
+- Emotion Detection
+- Age Detection
+- Smart Camera
+
+### 🕷 Spider Clock
+- Analog Clock
+- Python GUI
+
+### 🎨 Air Draw
+- Draw using Hand
+- Computer Vision
+
+## 🛠 Skills
+
+- Python
+- AI Development
+- Automation
+- Computer Vision
+- Tkinter
+
+## 📫 Contact
+
+Open for Freelance Work
