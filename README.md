@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+Developer;Web+Developer;Automation+Expert;Open+Source+Enthusiast" />
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hedaooved92-lab&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=hedaooved92-lab&show_icons=true&theme=tokyonight)
