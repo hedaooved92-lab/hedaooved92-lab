@@ -39,3 +39,8 @@
 - 🧠 AI Virtual Assistant  
 - 📊 Data Visualization Dashboard  
 - 🎮 Python Mini Games Collection
+- ## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/hedaooved92-lab/hedaooved92-lab/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
