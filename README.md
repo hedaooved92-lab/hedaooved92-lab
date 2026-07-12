@@ -15,6 +15,9 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hedaooved92-lab&theme=tokyonight&hide_border=true"/>
+</p>
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=hedaooved92-lab&show_icons=true&theme=tokyonight)
